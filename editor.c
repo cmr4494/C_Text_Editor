@@ -1,3 +1,12 @@
+/**
+This text editor was developed as part of SWEN-102 course. It is a simple text editor created to be run in a linux enviro ment. The goal of this editor was to get a better idea of what it means to create
+a project in C as well as using C data structures to construct something useful. Ultimately, the goal of this project were successful.
+References:
+
+https://viewsourcecode.org/snaptoken/kilo/
+-This was an extremely helpful resourse that gave me some ideas for making this text editor functional.
+**/
+
 #include <stdlib.h>
 #include <fcntl.h>
 #include <unistd.h>
